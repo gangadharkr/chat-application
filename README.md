@@ -33,7 +33,7 @@ for communication and social interaction. This README file provides an overview 
  --------------------
  
 1.To install and use ChatClique, follow these steps:
-2.Clone the ChatClique repository from GitHub: [https://github.com/snehil21/ChatClique.git]
+2.Clone the ChatClique repository from GitHub: [https://github.com/gangadharkr/chat-application/edit/main/README.md]
 3.Set up Firebase for your project by creating a Firebase project on the Firebase console.Follow the Firebase documentation to integrate 
 Firebase authentication and database services into your Android project.
 4.Open the project in Android Studio.
